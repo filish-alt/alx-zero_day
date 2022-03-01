@@ -1,0 +1,2 @@
+ignore all file whose name ends in ~
+* is sepecial symbol means "any squence of zero or more characters"
